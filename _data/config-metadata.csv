@@ -4,6 +4,7 @@ creator,Creator,true
 date,Date Created,
 description,Description,
 dimensions,Dimensions
+contents,Contents
 subject,Subjects,true
 location,Shelf Location
 latitude,Latitude
