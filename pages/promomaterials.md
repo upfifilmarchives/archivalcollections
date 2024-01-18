@@ -1,7 +1,4 @@
 ---
-## UP Film Institute promotional materials collection, 1976-1998
----
----
 title: About
 layout: about
 permalink: /about.html
