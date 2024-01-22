@@ -11,9 +11,10 @@ location,Shelf Location
 level,Level of Description,
 source,Source Collection,true
 identifier,Accession Number,,
-access,Access Restrictions
 type,Type,
 format,Format,
 itemhistory, Item History
+access,Conditions Governing Access
+use,Conditions Governing Use
 rights,Rights,
 rightsstatement,Rights Statement,,true
