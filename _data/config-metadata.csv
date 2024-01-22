@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 identifier,Accession Number,,
+location,Shelf Location
 title,Title,
 creator,Creator,true
 date,Date Created,
@@ -8,12 +9,11 @@ contents,Scope and Contents
 extent,Extent
 historical,Historical/Biographical Notes,
 subject,Subjects,true
-location,Shelf Location
 level,Level of Description,
 source,Source Collection,true
 type,Type,
 format,Format,
-itemhistory, Item History
+itemhistory, Record History
 access,Conditions Governing Access
 use,Conditions Governing Use
 rights,Rights,
