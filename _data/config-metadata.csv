@@ -1,16 +1,16 @@
 field,display_name,browse_link,external_link
+identifier,Accession Number,,
 title,Title,
 creator,Creator,true
 date,Date Created,
 description,Description,
 contents,Scope and Contents
-dimensions,Technical Details
+extent,Extent
 historical,Historical/Biographical Notes,
 subject,Subjects,true
 location,Shelf Location
 level,Level of Description,
 source,Source Collection,true
-identifier,Accession Number,,
 type,Type,
 format,Format,
 itemhistory, Item History
