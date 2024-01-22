@@ -13,6 +13,7 @@ level,Level of Description,
 source,Source Collection,true
 type,Type,
 format,Format,
+language,Language of Materials
 itemhistory, Record History
 access,Conditions Governing Access
 use,Conditions Governing Use
