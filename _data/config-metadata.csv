@@ -5,10 +5,10 @@ date,Date Created,
 description,Description,
 contents,Scope and Contents
 dimensions,Technical Details
+historical,Historical/Biographical Notes,
 subject,Subjects,true
 location,Shelf Location
-latitude,Latitude
-longitude,Longitude
+level,Level of Description,
 source,Source Collection,true
 identifier,Accession Number,,
 access,Access Restrictions
