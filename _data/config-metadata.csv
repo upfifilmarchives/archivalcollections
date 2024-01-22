@@ -10,6 +10,7 @@ extent,Extent
 historical,Historical/Biographical Notes,
 subject,Subjects,true
 level,Level of Description,
+series,Series
 source,Source Collection,true
 type,Type,
 format,Format,
