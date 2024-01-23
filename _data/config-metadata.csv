@@ -10,6 +10,7 @@ extent,Extent
 subject,Subjects,true
 level,Level of Description,
 series,Series,true,
+subseries,Sub-Series,true,
 source,Source Collection,true
 type,Type,
 format,Format,
