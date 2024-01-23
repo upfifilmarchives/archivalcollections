@@ -7,7 +7,6 @@ date,Date Created,
 description,Description,
 contents,Scope and Contents
 extent,Extent
-historical,Historical/Biographical Notes,
 subject,Subjects,true
 level,Level of Description,
 series,Series,true,
@@ -16,7 +15,6 @@ type,Type,
 format,Format,
 language,Language of Materials
 itemhistory, Record History
-access,Conditions Governing Access
-use,Conditions Governing Use
+access,Access Restrictions
 rights,Rights,
 rightsstatement,Rights Statement,,true
